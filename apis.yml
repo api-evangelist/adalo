@@ -1,0 +1,58 @@
+aid: adalo
+name: Adalo
+description: >-
+  Adalo is a visual no-code app builder that lets users design, build, and
+  publish native iOS, Android, and web applications without writing code,
+  combining a drag-and-drop canvas with AI-assisted generation and hosted
+  Postgres-backed collections. The platform supports external data sources,
+  pre-built feature templates, and 2,000+ integrations via Zapier and Make,
+  hosting over a million apps. The Adalo API provides REST access to app
+  collections and push notifications, secured with a per-app Bearer API key.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - No-Code
+  - App Builder
+  - Mobile App Development
+  - Web App Development
+  - Low-Code
+  - Visual Development
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/adalo/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis:
+  - aid: adalo:api
+    name: Adalo API
+    description: >-
+      REST API for managing collection records and triggering push
+      notifications inside an Adalo no-code app. Authentication uses a per-app
+      Bearer API key generated from the app's API settings.
+    humanURL: https://help.adalo.com/integrations/the-adalo-api
+    baseURL: https://api.adalo.com/v0
+    tags:
+      - No-Code
+      - Collections
+      - Push Notifications
+      - App Data
+    properties:
+      - type: Documentation
+        url: https://help.adalo.com/integrations/the-adalo-api
+      - type: Collections API
+        url: https://help.adalo.com/integrations/the-adalo-api/collections
+      - type: External Collections
+        url: https://help.adalo.com/integrations/external-collections-with-apis
+
+common:
+  - type: Website
+    url: https://www.adalo.com
+  - type: Documentation
+    url: https://help.adalo.com
+  - type: Pricing
+    url: https://www.adalo.com/pricing
+  - type: Sign Up
+    url: https://app.adalo.com/signup
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
