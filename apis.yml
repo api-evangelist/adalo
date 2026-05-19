@@ -45,6 +45,10 @@ apis:
         url: https://help.adalo.com/integrations/external-collections-with-apis
 
 common:
+  - type: GitHubOrganization
+    url: https://github.com/AdaloHQ
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/adalohq
   - type: Website
     url: https://www.adalo.com
   - type: Documentation
