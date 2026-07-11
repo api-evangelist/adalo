@@ -45,6 +45,8 @@ apis:
         url: https://help.adalo.com/integrations/external-collections-with-apis
 
 common:
+  - type: DomainSecurity
+    url: security/adalo-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/AdaloHQ
   - type: LinkedIn
@@ -57,6 +59,8 @@ common:
     url: https://www.adalo.com/pricing
   - type: Signup
     url: https://app.adalo.com/signup
+  - type: Blog
+    url: https://www.adalo.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
