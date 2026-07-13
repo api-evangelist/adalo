@@ -1,0 +1,21 @@
+{
+  "repo": "adalo",
+  "feeds": [
+    {
+      "source": "https://www.adalo.com/blog",
+      "feed_url": "https://www.adalo.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://app.adalo.com/signup",
+      "feed_url": "https://app.adalo.com/signup",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 8
+}
