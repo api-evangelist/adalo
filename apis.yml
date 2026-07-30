@@ -9,7 +9,18 @@ description: >-
   hosting over a million apps. The Adalo API provides REST access to app
   collections and push notifications, secured with a per-app Bearer API key.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/adalo.png
 tags:
   - No-Code
   - App Builder
