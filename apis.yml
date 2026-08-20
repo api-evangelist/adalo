@@ -44,6 +44,11 @@ apis:
     baseURL: https://api.adalo.com/v0
     tags:
       - No-Code
+      - Collection
+      - Push Notifications
+      - App Data
+    tags_raw:
+      - No-Code
       - Collections
       - Push Notifications
       - App Data
