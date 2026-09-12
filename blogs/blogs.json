@@ -2,23 +2,21 @@
   "repo": "adalo",
   "feeds": [
     {
-      "source": "https://www.adalo.com/blog",
-      "feed_url": "https://www.adalo.com/blog",
-      "title": "",
-      "saved": 0,
-      "method": "none",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
       "source": "https://app.adalo.com/signup",
       "feed_url": "https://app.adalo.com/signup",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://www.adalo.com/blog",
+      "feed_url": "https://www.adalo.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 8,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
